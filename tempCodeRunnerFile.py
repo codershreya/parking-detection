@@ -1,0 +1,1 @@
+img, pos, (pos[0] + width, pos[1] + height), (255, 0, 255), 2
